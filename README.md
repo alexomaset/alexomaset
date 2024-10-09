@@ -17,7 +17,7 @@ Hi there! 👋 I'm Alex, a passionate software engineer from Kenya with a strong
 - Frontend: React, Angular, TypeScript, JavaScript, HTML5, CSS3
 - Backend: Node.js, Express, Django, Flask
 - Databases: MongoDB, PostgreSQL, MySQL
-- Cloud & DevOps: AWS, Azure, GCP, Docker, Kubernetes, Jenkins
+- Cloud & DevOps: AWS, Docker, Kubernetes, Docker, Jenkins
 - Testing: Cypress, Selenium
 
 ### 🌍 Open for Opportunities
@@ -32,11 +32,11 @@ I'm always excited to take on new challenges and collaborate on innovative proje
 
 ### 🌱 Always Learning
 
-I'm constantly expanding my skill set and staying up-to-date with the latest technologies. Currently exploring: [mention any new technologies or concepts you're learning]
+I'm constantly expanding my skill set and staying up-to-date with the latest technologies. Currently exploring: [deep learning and Large Language Models]
 
 ### 🍳 Fun Fact
 
-When I'm not coding, you'll find me in the kitchen experimenting with recipes from around the world. I believe that cooking, like coding, is an art that requires creativity, precision, and a willingness to try new things!
+When I'm not coding, you'll find me doing various outdoor activities like bike riding and playing soccer. I believe that football, like coding, is an art that requires creativity, precision, and a willingness to try new things!
 
 ---
 
