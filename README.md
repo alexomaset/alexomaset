@@ -29,6 +29,7 @@ I'm always excited to take on new challenges and collaborate on innovative proje
 - Email: alexomaset711@gmail.com
 - Twitter: [@alex_omaset](https://twitter.com/alex_omaset)
 - GitHub: [alexomaset](https://github.com/alexomaset)
+- Portfolio: [portfolio](https://portfoli-liart.vercel.app/)
 
 ### 🌱 Always Learning
 
