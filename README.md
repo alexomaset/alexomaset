@@ -1,6 +1,6 @@
 # Alex Omaset
 
-## Software Engineer | Open Source Contributor | Full Stack Developer
+## Software Engineer | Open Source Contributor | Artificial Intelligence
 
 Hi there! 👋 I'm Alex, a passionate software engineer from Kenya with a strong focus on creating robust, scalable applications and contributing to open source projects.
 
